@@ -1,0 +1,2 @@
+# RyzenAlts
+A bot.
